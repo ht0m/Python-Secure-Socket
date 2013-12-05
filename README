@@ -1,0 +1,4 @@
+This is a small chat/server chat system.(Work in progress, as it is more on educational purposess)
+Goals
+1. Obtain real time chat with multiple threads.
+2. Encrypt data 
